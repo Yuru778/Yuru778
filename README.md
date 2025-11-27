@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm just a junior technical artist who enjoyed coding, arts, and many other things.
+feel free to collaborate with me!
 <!--
 **Yuru778/Yuru778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
